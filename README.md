@@ -4,13 +4,29 @@ GitHub repositories for three coding projects: PacMen Exercise, Eye Exercise, an
 
 The README for each repository should contain: 
 
-Project Title
-Description of Project (minimum of 20 words)
-How to Run: This is information someone would use to get started running your project on their machine. 
+GitHub Portfolio Project
 
-Roadmap of future improvements: This should be a few sentences describing what you plan to work on next in this repository. 
-License information: This should include information about the MIT license. 
-The file structure for each repository should align to the following: 
+Hi, my name is Philip Case and I am a software developer from Utah.  I am currently taking the MIT XPro Full Stack developer certification course online, and this project is to create a website (right here) to show case my computer programming work as a portfolio. Thank you for stopping by to check it out.
+
+
+How to Run: Open your browser and navigate to this URL: https://philip-case.github.io/
+
+Roadmap Run:
+
+I will continue adding new project to this site so stay tuned.
+Working on adding a 3D globe that will red-pin alll the locations I have travelled to.
+Working on a signature app
+Working on a FAA ADS-B tool
+
+
+License information: 
+MIT license
+Google Maps API
+MBTA API (for Boston Bus Tracker)
+
+
+
+The file structure for each project repository is setup as follows:
 
 PacMen Exercise
 images/pacman1
@@ -19,12 +35,18 @@ images/pacman3
 images/pacman4
 Index.html
 pacmen.js
- Eye Exercise
+
+Eye Exercise
 index.html
 eyes.js
 styles.css
+
 Real Time Bus Tracker
 Index.html
 mapanimation.js
 styles.css
-You may also review the rubric below for more information on how your work will be assessed.
+
+Movie Star
+Still a work in Progress
+
+
